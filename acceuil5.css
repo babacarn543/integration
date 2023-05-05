@@ -1,0 +1,1170 @@
+/* screen - acceuil */
+
+.acceuil {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4797px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.acceuil .navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 132px;
+  left: 0;
+  min-width: 1454px;
+  position: fixed;
+  top: -1px;
+  z-index: 3;
+}
+
+.acceuil .flex-col {
+  background-color: var(--resolution-blue);
+  flex-direction: column;
+  gap: 10px;
+  min-height: 132px;
+  padding: 10px 67px;
+  width: 1440px;
+}
+
+.acceuil .flex-row {
+  height: 61px;
+  margin-left: 4px;
+  margin-top: 7px;
+  min-width: 1267px;
+}
+
+.acceuil .sol-ovoyage {
+  align-self: flex-end;
+  color: transparent;
+  font-family: var(--font-family-roboto);
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  min-width: 148px;
+}
+
+.acceuil .span0 {
+  color: #0071c2;
+  font-weight: 500;
+}
+
+.acceuil .span1 {
+  color: var(--selective-yellow);
+  font-family: var(--font-family-zeyada);
+}
+
+.acceuil .overlap-group3 {
+  align-self: center;
+  height: 25px;
+  margin-bottom: 8.0px;
+  margin-left: 399px;
+  position: relative;
+  width: 56px;
+}
+
+.acceuil .price {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.acceuil .expand_more_fill0_wght400_grad0_opsz48-2 {
+  height: 24px;
+  left: 32px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.acceuil .ellipse-2 {
+  height: 31px;
+  margin-left: 15px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.acceuil .overlap-group2 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 35px;
+  margin-left: 105px;
+  margin-top: 2px;
+  min-width: 268px;
+  padding: 4px 7px;
+}
+
+.acceuil .ajoutez-votre-tablissement {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 9px;
+  margin-top: 1px;
+  min-width: 109px;
+  padding: 7px 21px;
+}
+
+.acceuil .s-inscrire {
+  color: var(--resolution-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  margin-left: 18px;
+  min-width: 109px;
+  padding: 5px;
+}
+
+.acceuil .se-connecter {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.acceuil .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  min-width: 507px;
+}
+
+.acceuil .apartment_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-start;
+  height: 31px;
+  width: 31px;
+}
+
+.acceuil .hebergement {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 121px;
+  white-space: nowrap;
+}
+
+.acceuil .flight_takeoff_fill0 {
+  height: 24px;
+  margin-left: 47px;
+  margin-top: 4.0px;
+  width: 24px;
+}
+
+.acceuil .vol {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8px;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 26px;
+  white-space: nowrap;
+}
+
+.acceuil .local_taxi_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-end;
+  height: 27px;
+  margin-left: 48px;
+  width: 27px;
+}
+
+.acceuil .voiture-de-location {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 167px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-37 {
+  align-self: center;
+  background-color: var(--alto);
+  height: 30px;
+  margin-left: 489.0px;
+  margin-top: 21px;
+  width: 263px;
+  z-index: 2;
+}
+
+.acceuil .overlap-group5 {
+  height: 3669px;
+  margin-top: 59px;
+  position: relative;
+  width: 1440px;
+  z-index: 1;
+}
+
+.acceuil .trouver-votre-prochain-sjour {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 160px;
+  white-space: nowrap;
+}
+
+.acceuil .recherchez-des-offre {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 227px;
+}
+
+.acceuil .recherchez-par-type-dhbergement {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 729px;
+  white-space: nowrap;
+}
+
+.acceuil .choisissez-votre-destination {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 544px;
+  white-space: nowrap;
+}
+
+.acceuil .communiquez-avec-dautres-voageurs {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1144px;
+  white-space: nowrap;
+}
+
+.acceuil .explorez-le-sngal {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1651px;
+  white-space: nowrap;
+}
+
+.acceuil .dautres-destinations {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2428px;
+  white-space: nowrap;
+}
+
+.acceuil .x45450084-1 {
+  height: 210px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 807px;
+  width: 263px;
+}
+
+.acceuil .x57584488-1 {
+  height: 210px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 807px;
+  width: 263px;
+}
+
+.acceuil .x100235855-1 {
+  height: 210px;
+  left: 751px;
+  object-fit: cover;
+  position: absolute;
+  top: 807px;
+  width: 263px;
+}
+
+.acceuil .x119467716-1 {
+  height: 210px;
+  left: 1075px;
+  object-fit: cover;
+  position: absolute;
+  top: 807px;
+  width: 263px;
+}
+
+.acceuil .hotels {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1026px;
+  white-space: nowrap;
+}
+
+.acceuil .discussions-sur-les-voyages {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1519px;
+  white-space: nowrap;
+}
+
+.acceuil .saly-portudal {
+  left: 742px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1877px;
+  white-space: nowrap;
+}
+
+.acceuil .la-somone {
+  left: 529px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1877px;
+  white-space: nowrap;
+}
+
+.acceuil .place {
+  left: 955px;
+  top: 1877px;
+}
+
+.acceuil .mbour {
+  left: 1168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1877px;
+  white-space: nowrap;
+}
+
+.acceuil .place-1 {
+  left: 103px;
+  top: 1877px;
+}
+
+.acceuil .ngaparou {
+  left: 316px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1877px;
+  white-space: nowrap;
+}
+
+.acceuil .cap-skirring {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2318px;
+  white-space: nowrap;
+}
+
+.acceuil .poponguine {
+  left: 415px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2318px;
+  white-space: nowrap;
+}
+
+.acceuil .palmarin {
+  left: 728px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2318px;
+  white-space: nowrap;
+}
+
+.acceuil .nianing {
+  left: 1041px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2318px;
+  white-space: nowrap;
+}
+
+.acceuil .appartements {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1026px;
+  white-space: nowrap;
+}
+
+.acceuil .complexes-hoteliers {
+  left: 752px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1026px;
+  white-space: nowrap;
+}
+
+.acceuil .place-2 {
+  left: 1077px;
+  top: 1026px;
+}
+
+.acceuil .address {
+  left: 102px;
+  top: 1052px;
+}
+
+.acceuil .address-1 {
+  left: 102px;
+  top: 1904px;
+}
+
+.acceuil .a-5-km-de-mbour {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2343px;
+  white-space: nowrap;
+}
+
+.acceuil .a-5-km-de-mbour-1 {
+  left: 415px;
+}
+
+.acceuil .a-5-km-de-mbour-2 {
+  left: 728px;
+}
+
+.acceuil .a-5-km-de-mbour-3 {
+  left: 1041px;
+}
+
+.acceuil .address-2 {
+  left: 313px;
+  top: 1904px;
+}
+
+.acceuil .address-3 {
+  left: 529px;
+  top: 1904px;
+}
+
+.acceuil .address-4 {
+  left: 742px;
+  top: 1904px;
+}
+
+.acceuil .address-5 {
+  left: 955px;
+  top: 1904px;
+}
+
+.acceuil .address-6 {
+  left: 1168px;
+  top: 1904px;
+}
+
+.acceuil .voir-le-forum {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1546px;
+  white-space: nowrap;
+}
+
+.acceuil .address-7 {
+  left: 103px;
+  top: 1569px;
+}
+
+.acceuil .address-8 {
+  left: 427px;
+  top: 1052px;
+}
+
+.acceuil .address-9 {
+  left: 751px;
+  top: 1052px;
+}
+
+.acceuil .address-10 {
+  left: 1077px;
+  top: 1052px;
+}
+
+.acceuil .f43b42664bbf44f174b4 {
+  height: 300px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1205px;
+  width: 300px;
+}
+
+.acceuil .x685430-1 {
+  height: 136px;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .x722364-1 {
+  height: 136px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .x812298-1 {
+  height: 136px;
+  left: 529px;
+  object-fit: cover;
+  position: absolute;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .x896571-1 {
+  height: 136px;
+  left: 742px;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .x973910-1 {
+  height: 136px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .ces-endroits-ont-beaucoup-offrir {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1687px;
+  white-space: nowrap;
+}
+
+.acceuil .x973972-1 {
+  height: 136px;
+  left: 1168px;
+  object-fit: cover;
+  position: absolute;
+  top: 1732px;
+  width: 170px;
+}
+
+.acceuil .rectangle-18 {
+  background-color: #0071c2;
+  border-radius: 27px;
+  height: 43px;
+  left: 103px;
+  position: absolute;
+  top: 1998px;
+  width: 105px;
+}
+
+.acceuil .plage {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 500;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2007px;
+  white-space: nowrap;
+}
+
+.acceuil .x117889708-1 {
+  height: 240px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 2070px;
+  width: 300px;
+}
+
+.acceuil .x140016279-1 {
+  height: 240px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 2070px;
+  width: 300px;
+}
+
+.acceuil .x140016281-1 {
+  height: 240px;
+  left: 1041px;
+  object-fit: cover;
+  position: absolute;
+  top: 2070px;
+  width: 300px;
+}
+
+.acceuil .x140016278-1 {
+  height: 240px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 2070px;
+  width: 300px;
+}
+
+.acceuil .x685430-2 {
+  height: 376px;
+  top: 2476px;
+  width: 600px;
+}
+
+.acceuil .x896571-2 {
+  height: 376px;
+  left: 738px;
+  top: 2476px;
+  width: 600px;
+}
+
+.acceuil .x613088-1 {
+  height: 380px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 2891px;
+  width: 380px;
+}
+
+.acceuil .x976784-1 {
+  height: 380px;
+  left: 530px;
+  object-fit: cover;
+  position: absolute;
+  top: 2891px;
+  width: 380px;
+}
+
+.acceuil .x971353-1 {
+  height: 380px;
+  left: 957px;
+  object-fit: cover;
+  position: absolute;
+  top: 2891px;
+  width: 380px;
+}
+
+.acceuil .saly-portudal-1 {
+  left: 1110px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2485px;
+  white-space: nowrap;
+}
+
+.acceuil .concept-voyage-complet-points-repere-1 {
+  height: 506px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.acceuil .beach_access_fill0_w {
+  height: 39px;
+  left: 106px;
+  position: absolute;
+  top: 1997px;
+  width: 39px;
+}
+
+.acceuil .rectangle-46 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 103px;
+  position: absolute;
+  top: 2476px;
+  width: 183px;
+}
+
+.acceuil .rectangle-47 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 102px;
+  position: absolute;
+  top: 2892px;
+  width: 183px;
+}
+
+.acceuil .rectangle-48 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 530px;
+  position: absolute;
+  top: 2891px;
+  width: 183px;
+}
+
+.acceuil .rectangle-49 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 957px;
+  position: absolute;
+  top: 2891px;
+  width: 183px;
+}
+
+.acceuil .place-3 {
+  left: 144px;
+  top: 2481px;
+}
+
+.acceuil .name {
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2901px;
+  white-space: nowrap;
+}
+
+.acceuil .place-4 {
+  left: 545px;
+  top: 2901px;
+}
+
+.acceuil .place-5 {
+  left: 974px;
+  top: 2901px;
+}
+
+.acceuil .overlap-group-1 {
+  height: 55px;
+  left: 102px;
+  position: absolute;
+  top: 597px;
+  width: 592px;
+}
+
+.acceuil .rectangle-50 {
+  background-color: #d9d9d91a;
+  border-radius: 3px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 592px;
+}
+
+.acceuil .pays {
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .type-de-voyage {
+  left: 116px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .place-6 {
+  left: 263px;
+  top: 6px;
+}
+
+.acceuil .nombre {
+  left: 358px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .budget {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-51 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 99px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.acceuil .rectangle-52 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 240px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .rectangle-53 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 317px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .rectangle-54 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 457px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-1 {
+  left: 23px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-2 {
+  left: 134px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-3 {
+  left: 244px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-4 {
+  left: 373px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-5 {
+  left: 492px;
+}
+
+.acceuil .sngal {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .tourisme {
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .date {
+  left: 258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .number {
+  left: 387px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .text-1 {
+  left: 506px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-45 {
+  background-color: var(--selective-yellow);
+  border-radius: 3px;
+  height: 29px;
+  left: 720px;
+  position: absolute;
+  top: 612px;
+  width: 121px;
+}
+
+.acceuil .rechercher {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  left: 740px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 616px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-56 {
+  background-color: #00000063;
+  height: 3656px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 1440px;
+}
+
+.acceuil .rectangle-57 {
+  background-color: #fafafa;
+  border-radius: 17px;
+  height: 419px;
+  left: 910px;
+  position: absolute;
+  top: 21px;
+  width: 468px;
+}
+
+.acceuil .identifiant {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  left: 984px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.acceuil .mot-de-pass {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 400;
+  left: 984px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 222px;
+  white-space: nowrap;
+}
+
+.acceuil .connexion {
+  color: var(--black);
+  font-size: var(--font-size-m2);
+  font-weight: 700;
+  left: 1076px;
+  top: 37px;
+}
+
+.acceuil .rectangle-58 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--resolution-blue);
+  border-radius: 5px;
+  height: 57px;
+  left: 984px;
+  position: absolute;
+  top: 132px;
+  width: 299px;
+}
+
+.acceuil .email {
+  color: #00000066;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-59 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--resolution-blue);
+  border-radius: 5px;
+  height: 57px;
+  left: 983px;
+  position: absolute;
+  top: 250px;
+  width: 299px;
+}
+
+.acceuil .rectangle-60 {
+  background-color: var(--selective-yellow);
+  border-radius: 6px;
+  height: 40px;
+  left: 1060px;
+  position: absolute;
+  top: 343px;
+  width: 172px;
+}
+
+.acceuil .mot-de-pass-1 {
+  color: #00000078;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m2);
+  font-weight: 300;
+  left: 999px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+
+.acceuil .connexion-1 {
+  color: var(--white);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  left: 1089px;
+  top: 348px;
+}
+
+.acceuil .a-5-km-de-mbour-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2343px;
+  white-space: nowrap;
+}
+
+.acceuil .address-11 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.acceuil .connexion-2 {
+  font-family: var(--font-family-roboto);
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48 {
+  height: 14px;
+  position: absolute;
+  top: 33px;
+  width: 14px;
+}
+
+.acceuil .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.acceuil .place-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.acceuil .x685430 {
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+}
+
+.acceuil .x896571 {
+  object-fit: cover;
+  position: absolute;
+}

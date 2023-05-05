@@ -1,0 +1,1284 @@
+/* screen - acceuil */
+
+.acceuil {
+  background-color: var(--white);
+  border: 1px none;
+  height: 4434px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.acceuil .overlap-group10 {
+  height: 506px;
+  left: 0;
+  position: absolute;
+  top: 110px;
+  width: 1440px;
+}
+
+.acceuil .trouver-votre-prochain-sjour {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 48px;
+  font-weight: 700;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 160px;
+  white-space: nowrap;
+}
+
+.acceuil .recherchez-des-offre {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 227px;
+}
+
+.acceuil .concept-voyage-complet-points-repere-1 {
+  height: 506px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.acceuil .recherchez-par-type-dhbergement {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 839px;
+  white-space: nowrap;
+}
+
+.acceuil .choisissez-votre-destination {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 654px;
+  white-space: nowrap;
+}
+
+.acceuil .communiquez-avec-dautres-voageurs {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1254px;
+  white-space: nowrap;
+}
+
+.acceuil .explorez-le-sngal {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1761px;
+  white-space: nowrap;
+}
+
+.acceuil .dautres-destinations {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2538px;
+  white-space: nowrap;
+}
+
+.acceuil .x45450084-1 {
+  height: 210px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 263px;
+}
+
+.acceuil .x57584488-1 {
+  height: 210px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 263px;
+}
+
+.acceuil .x100235855-1 {
+  height: 210px;
+  left: 751px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 263px;
+}
+
+.acceuil .x119467716-1 {
+  height: 210px;
+  left: 1075px;
+  object-fit: cover;
+  position: absolute;
+  top: 917px;
+  width: 263px;
+}
+
+.acceuil .hotels {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1136px;
+  white-space: nowrap;
+}
+
+.acceuil .discussions-sur-les-voyages {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1629px;
+  white-space: nowrap;
+}
+
+.acceuil .saly-portudal {
+  left: 742px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1987px;
+  white-space: nowrap;
+}
+
+.acceuil .la-somone {
+  left: 529px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1987px;
+  white-space: nowrap;
+}
+
+.acceuil .place {
+  left: 955px;
+  top: 1987px;
+}
+
+.acceuil .mbour {
+  left: 1168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1987px;
+  white-space: nowrap;
+}
+
+.acceuil .place-1 {
+  left: 103px;
+  top: 1987px;
+}
+
+.acceuil .ngaparou {
+  left: 316px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1987px;
+  white-space: nowrap;
+}
+
+.acceuil .cap-skirring {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2428px;
+  white-space: nowrap;
+}
+
+.acceuil .poponguine {
+  left: 415px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2428px;
+  white-space: nowrap;
+}
+
+.acceuil .palmarin {
+  left: 728px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2428px;
+  white-space: nowrap;
+}
+
+.acceuil .nianing {
+  left: 1041px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2428px;
+  white-space: nowrap;
+}
+
+.acceuil .appartements {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1136px;
+  white-space: nowrap;
+}
+
+.acceuil .complexes-hoteliers {
+  left: 752px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1136px;
+  white-space: nowrap;
+}
+
+.acceuil .place-2 {
+  left: 1077px;
+  top: 1136px;
+}
+
+.acceuil .address {
+  left: 102px;
+  position: absolute;
+  top: 1162px;
+  white-space: nowrap;
+}
+
+.acceuil .address-1 {
+  left: 102px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .a-5-km-de-mbour {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2453px;
+  white-space: nowrap;
+}
+
+.acceuil .a-5-km-de-mbour-1 {
+  left: 415px;
+}
+
+.acceuil .a-5-km-de-mbour-2 {
+  left: 728px;
+}
+
+.acceuil .a-5-km-de-mbour-3 {
+  left: 1041px;
+}
+
+.acceuil .address-2 {
+  left: 313px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .address-3 {
+  left: 529px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .address-4 {
+  left: 742px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .address-5 {
+  left: 955px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .address-6 {
+  left: 1168px;
+  position: absolute;
+  top: 2014px;
+  white-space: nowrap;
+}
+
+.acceuil .voir-le-forum {
+  left: 103px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1656px;
+  white-space: nowrap;
+}
+
+.acceuil .address-7 {
+  left: 103px;
+  position: absolute;
+  top: 1679px;
+  white-space: nowrap;
+}
+
+.acceuil .address-8 {
+  left: 427px;
+  position: absolute;
+  top: 1162px;
+  white-space: nowrap;
+}
+
+.acceuil .address-9 {
+  left: 751px;
+  position: absolute;
+  top: 1162px;
+  white-space: nowrap;
+}
+
+.acceuil .address-10 {
+  left: 1077px;
+  position: absolute;
+  top: 1162px;
+  white-space: nowrap;
+}
+
+.acceuil .f43b42664bbf44f174b4 {
+  height: 300px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1315px;
+  width: 300px;
+}
+
+.acceuil .x685430-1 {
+  height: 136px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .x722364-1 {
+  height: 136px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .x812298-1 {
+  height: 136px;
+  left: 529px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .x896571-1 {
+  height: 136px;
+  left: 742px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .x973910-1 {
+  height: 136px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .ces-endroits-ont-beaucoup-offrir {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1797px;
+  white-space: nowrap;
+}
+
+.acceuil .x973972-1 {
+  height: 136px;
+  left: 1168px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 170px;
+}
+
+.acceuil .overlap-group8 {
+  height: 44px;
+  left: 103px;
+  position: absolute;
+  top: 2107px;
+  width: 105px;
+}
+
+.acceuil .rectangle-18 {
+  background-color: var(--lochmara);
+  border-radius: 27px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 105px;
+}
+
+.acceuil .plage {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.acceuil .beach_access_fill0_w {
+  height: 39px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.acceuil .x117889708-1 {
+  height: 240px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 2180px;
+  width: 300px;
+}
+
+.acceuil .x140016279-1 {
+  height: 240px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 2180px;
+  width: 300px;
+}
+
+.acceuil .x140016281-1 {
+  height: 240px;
+  left: 1041px;
+  object-fit: cover;
+  position: absolute;
+  top: 2180px;
+  width: 300px;
+}
+
+.acceuil .x140016278-1 {
+  height: 240px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 2180px;
+  width: 300px;
+}
+
+.acceuil .overlap-group6 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6454ee3162bdb7d270c80ea5/releases/6454ee9c1a6a3915be08c6ce/img/685430-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 376px;
+  left: 103px;
+  position: absolute;
+  top: 2586px;
+  width: 600px;
+}
+
+.acceuil .rectangle-4 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 183px;
+}
+
+.acceuil .place-3 {
+  left: 41px;
+  top: 5px;
+}
+
+.acceuil .overlap-group9 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6454ee3162bdb7d270c80ea5/releases/6454ee9c1a6a3915be08c6ce/img/896571-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 376px;
+  justify-content: flex-end;
+  left: 738px;
+  min-width: 600px;
+  padding: 9px 11px;
+  position: absolute;
+  top: 2586px;
+}
+
+.acceuil .saly-portudal-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group7 {
+  height: 380px;
+  left: 102px;
+  position: absolute;
+  top: 3001px;
+  width: 381px;
+}
+
+.acceuil .x613088-1 {
+  height: 380px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+
+.acceuil .rectangle-47 {
+  background-color: var(--white);
+  border-radius: 0px 0px 34px 0px;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 183px;
+}
+
+.acceuil .name {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group5 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6454ee3162bdb7d270c80ea5/releases/6454ee9c1a6a3915be08c6ce/img/976784-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 380px;
+  left: 530px;
+  position: absolute;
+  top: 3001px;
+  width: 380px;
+}
+
+.acceuil .place-4 {
+  left: 15px;
+  top: 10px;
+}
+
+.acceuil .overlap-group12 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6454ee3162bdb7d270c80ea5/releases/6454ee9c1a6a3915be08c6ce/img/971353-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 380px;
+  left: 957px;
+  position: absolute;
+  top: 3001px;
+  width: 380px;
+}
+
+.acceuil .place-5 {
+  left: 17px;
+  top: 10px;
+}
+
+.acceuil .rectangle-37 {
+  background-color: var(--alto);
+  height: 30px;
+  left: 833px;
+  position: absolute;
+  top: 21px;
+  width: 263px;
+}
+
+.acceuil .group-19 {
+  height: 55px;
+  left: 102px;
+  min-width: 612px;
+  top: 707px;
+}
+
+.acceuil .overlap-group {
+  height: 55px;
+  position: relative;
+  width: 592px;
+}
+
+.acceuil .rectangle-50 {
+  background-color: var(--alto-3);
+  border-radius: 3px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 592px;
+}
+
+.acceuil .pays {
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .type-de-voyage {
+  left: 116px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .place-6 {
+  left: 263px;
+  top: 6px;
+}
+
+.acceuil .nombre {
+  left: 358px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .budget {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.acceuil .rectangle-51 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 99px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.acceuil .rectangle-52 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 240px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .rectangle-53 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 317px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .rectangle-54 {
+  background-color: var(--alto);
+  height: 53px;
+  left: 457px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-1 {
+  left: 23px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-2 {
+  left: 134px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-3 {
+  left: 244px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-4 {
+  left: 373px;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48-5 {
+  left: 492px;
+}
+
+.acceuil .sngal {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .tourisme {
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .date {
+  left: 258px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .number {
+  left: 387px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .text-1 {
+  left: 506px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group11 {
+  align-items: flex-start;
+  background-color: var(--selective-yellow);
+  border-radius: 3px;
+  display: flex;
+  height: 29px;
+  justify-content: flex-end;
+  left: 720px;
+  min-width: 121px;
+  padding: 4px 19px;
+  position: absolute;
+  top: 722px;
+}
+
+.acceuil .rechercher {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.acceuil .group-25 {
+  height: 501px;
+  left: 0;
+  min-width: 1440px;
+  top: 3933px;
+}
+
+.acceuil .overlap-group2 {
+  height: 501px;
+  position: relative;
+  width: 1440px;
+}
+
+.acceuil .overlap-group-1 {
+  background-color: var(--resolution-blue);
+  flex-direction: column;
+  left: 0;
+  min-height: 501px;
+  padding: 32px 83px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.acceuil .overlap-group1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--resolution-blue);
+  border-radius: 64px;
+  box-shadow: 0px 10px 4px #00000040;
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  margin-top: 10px;
+  min-width: 1273px;
+  padding: 20px 29px;
+}
+
+.acceuil .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 99px;
+  height: 228px;
+  min-width: 309px;
+}
+
+.acceuil .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 146px;
+  width: 193px;
+}
+
+.acceuil .adresse {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10.0px;
+  min-height: 38px;
+  min-width: 119px;
+  white-space: nowrap;
+}
+
+.acceuil .vector {
+  height: 55px;
+  margin-left: 10.0px;
+  margin-top: 5px;
+  width: 41px;
+}
+
+.acceuil .pikine-rue-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 38px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.acceuil .line {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 8px;
+  min-width: 17px;
+}
+
+.acceuil .line-4 {
+  height: 129px;
+  margin-left: -1px;
+  margin-top: 0.8px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acceuil .line-2 {
+  height: 215px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acceuil .line-5 {
+  height: 129px;
+  margin-top: 0.8px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acceuil .flex-col-1 {
+  margin-left: 126px;
+  min-height: 184px;
+  width: 186px;
+}
+
+.acceuil .tlphone {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 9.0px;
+  min-height: 38px;
+  min-width: 151px;
+  white-space: nowrap;
+}
+
+.acceuil .vector-1 {
+  height: 46px;
+  margin-left: 2.0px;
+  margin-top: 14px;
+  width: 46px;
+}
+
+.acceuil .address-11 {
+  margin-top: 10px;
+  min-height: 76px;
+  min-width: 186px;
+}
+
+.acceuil .line-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 121px;
+  min-width: 17px;
+}
+
+.acceuil .flex-col-2 {
+  margin-left: 61px;
+  min-height: 146px;
+  width: 325px;
+}
+
+.acceuil .email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 25.0px;
+  min-height: 38px;
+  min-width: 80px;
+  white-space: nowrap;
+}
+
+.acceuil .vector-2 {
+  height: 40px;
+  margin-right: 26.0px;
+  margin-top: 20px;
+  width: 53px;
+}
+
+.acceuil .solovoayegmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 38px;
+  min-width: 325px;
+  white-space: nowrap;
+}
+
+.acceuil .frame-18 {
+  align-self: center;
+  height: 28px;
+  margin-top: 54px;
+  width: 302px;
+}
+
+.acceuil .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  margin-left: 5px;
+  margin-top: 36px;
+  min-width: 266px;
+}
+
+.acceuil .vector-3 {
+  height: 31px;
+  width: 31px;
+}
+
+.acceuil .address-12 {
+  margin-top: 2.0px;
+  min-height: 23px;
+  min-width: 230px;
+  white-space: nowrap;
+}
+
+.acceuil .line-6 {
+  height: 215px;
+  left: 492px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.acceuil .line-7 {
+  height: 215px;
+  left: 925px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.acceuil .navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 132px;
+  left: 0;
+  min-width: 1454px;
+  position: fixed;
+  top: -1px;
+}
+
+.acceuil .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 132px;
+  padding: 10px 67px;
+  width: 1440px;
+}
+
+.acceuil .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 59px;
+  margin-left: 4px;
+  margin-top: 7px;
+  min-width: 1267px;
+}
+
+.acceuil .sol-ovoyage {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  min-width: 148px;
+}
+
+.acceuil .overlap-group2-1 {
+  align-self: center;
+  height: 25px;
+  margin-bottom: 6.0px;
+  margin-left: 399px;
+  position: relative;
+  width: 56px;
+}
+
+.acceuil .price {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.acceuil .expand_more_fill0_wght400_grad0_opsz48-2 {
+  height: 24px;
+  left: 32px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.acceuil .ellipse-2 {
+  height: 31px;
+  margin-left: 15px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.acceuil .overlap-group4 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 35px;
+  margin-left: 105px;
+  margin-top: 2px;
+  min-width: 268px;
+  padding: 4px 7px;
+}
+
+.acceuil .ajoutez-votre-tablissement {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group-2 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 9px;
+  margin-top: 1px;
+  min-width: 109px;
+  padding: 7px 21px;
+}
+
+.acceuil .s-inscrire {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  margin-left: 18px;
+  min-width: 109px;
+  padding: 5px;
+}
+
+.acceuil .se-connecter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.acceuil .navbar-1 {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  min-width: 706px;
+}
+
+.acceuil .apartment_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-start;
+  height: 31px;
+  width: 31px;
+}
+
+.acceuil .navbar-link-hebergement {
+  margin-left: 4px;
+  min-width: 121px;
+}
+
+.acceuil .flight_takeoff_fill0 {
+  height: 24px;
+  margin-left: 47px;
+  margin-top: 4.0px;
+  width: 24px;
+}
+
+.acceuil .navbar-link-vol {
+  margin-left: 8px;
+  min-width: 26px;
+}
+
+.acceuil .local_taxi_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-end;
+  margin-left: 48px;
+}
+
+.acceuil .navbar-link-voiture-de-location {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 167px;
+  white-space: nowrap;
+}
+
+.acceuil .local_taxi_fill0_wght400_grad0_opsz48-2 {
+  margin-left: 52px;
+  margin-top: 1.0px;
+}
+
+.acceuil .navbar-link-taxi-aroport {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 120px;
+  white-space: nowrap;
+}
+
+.acceuil .a-5-km-de-mbour-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2453px;
+  white-space: nowrap;
+}
+
+.acceuil .address-13 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.acceuil .done_fill0_wght400_grad0_opsz48 {
+  height: 14px;
+  position: absolute;
+  top: 33px;
+  width: 14px;
+}
+
+.acceuil .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.acceuil .group {
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+}
+
+.acceuil .local_taxi_fill0_wght400_grad0_opsz48 {
+  height: 27px;
+  width: 27px;
+}
+
+.acceuil .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5.0px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.acceuil .overlap-group-3 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.acceuil .place-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  white-space: nowrap;
+}

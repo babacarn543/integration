@@ -1,0 +1,1257 @@
+/* screen - st-louis */
+
+.st-louis {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2766px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.st-louis .navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 132px;
+  left: 0;
+  min-width: 1458px;
+  position: fixed;
+  top: 1px;
+  z-index: 3;
+}
+
+.st-louis .overlap-group15 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 132px;
+  padding: 10px 67px;
+  width: 1440px;
+}
+
+.st-louis .flex-row {
+  height: 56px;
+  margin-left: 4px;
+  margin-top: 7px;
+  min-width: 1267px;
+}
+
+.st-louis .title {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  min-width: 148px;
+}
+
+.st-louis .overlap-group3 {
+  align-self: center;
+  height: 25px;
+  margin-bottom: 3.0px;
+  margin-left: 399px;
+  position: relative;
+  width: 56px;
+}
+
+.st-louis .price {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.st-louis .expand_more_fill0_wght400_grad0_opsz48-2 {
+  left: 32px;
+  position: absolute;
+  top: 1px;
+}
+
+.st-louis .ellipse-2 {
+  align-self: center;
+  height: 31px;
+  margin-bottom: 11.0px;
+  margin-left: 15px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.st-louis .overlap-group1 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 35px;
+  margin-left: 105px;
+  margin-top: 2px;
+  min-width: 268px;
+  padding: 4px 7px;
+}
+
+.st-louis .ment {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 9px;
+  margin-top: 1px;
+  min-width: 109px;
+  padding: 7px 21px;
+}
+
+.st-louis .s-inscrire {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 34px;
+  margin-left: 18px;
+  min-width: 109px;
+  padding: 5px;
+}
+
+.st-louis .se-connecter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .navbar-1 {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  min-width: 706px;
+}
+
+.st-louis .apartment_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-start;
+  height: 31px;
+  width: 31px;
+}
+
+.st-louis .navbar-link-hebergement {
+  margin-left: 4px;
+  min-width: 121px;
+}
+
+.st-louis .flight_takeoff_fill0 {
+  height: 24px;
+  margin-left: 47px;
+  margin-top: 4.0px;
+  width: 24px;
+}
+
+.st-louis .navbar-link-vol {
+  margin-left: 8px;
+  min-width: 26px;
+}
+
+.st-louis .local_taxi_fill0_wght400_grad0_opsz48-1 {
+  align-self: flex-end;
+  margin-left: 48px;
+}
+
+.st-louis .navbar-link-voiture-de-location {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 167px;
+  white-space: nowrap;
+}
+
+.st-louis .local_taxi_fill0_wght400_grad0_opsz48-2 {
+  margin-left: 52px;
+  margin-top: 1.0px;
+}
+
+.st-louis .navbar-link-taxi-aroport {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5.0px;
+  min-height: 23px;
+  min-width: 120px;
+  white-space: nowrap;
+}
+
+.st-louis .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 12px;
+  height: 1731px;
+  margin-left: 35.0px;
+  margin-top: 180px;
+  min-width: 1265px;
+  z-index: 1;
+}
+
+.st-louis .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 121px;
+  min-height: 1614px;
+  width: 369px;
+}
+
+.st-louis .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--selective-yellow);
+  display: flex;
+  flex-direction: column;
+  min-height: 556px;
+  padding: 16px 18px;
+  width: 349px;
+}
+
+.st-louis .recherche {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.st-louis .destination-nom-de-ltablissement {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 14px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 39px;
+  margin-left: 1px;
+  margin-top: 8px;
+  min-width: 278px;
+  padding: 6px 15px;
+}
+
+.st-louis .search_fill0_wght400_grad0_opsz48-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.st-louis .du {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 11px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group3-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  margin-left: 1px;
+  margin-top: 3px;
+  min-width: 278px;
+  padding: 0 8px;
+}
+
+.st-louis .calendar_month_fill0 {
+  height: 27px;
+  width: 27px;
+}
+
+.st-louis .jeudi-04-mai-2023 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 6.0px;
+  min-height: 19px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.st-louis .expand_more_fill0_wght400_grad0_opsz48-1 {
+  margin-bottom: 1.0px;
+  margin-left: 53px;
+}
+
+.st-louis .place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 8px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group6 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  margin-left: 1px;
+  margin-top: 6px;
+  min-width: 278px;
+  padding: 0 11px;
+}
+
+.st-louis .vendredi-05-mai-2023 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  min-height: 19px;
+  min-width: 156px;
+  white-space: nowrap;
+}
+
+.st-louis .expand_more_fill0_wght400_grad0_opsz48-2-1 {
+  height: 24px;
+  margin-bottom: 1.0px;
+  margin-left: 26px;
+  width: 24px;
+}
+
+.st-louis .sjour-de-1-nuit {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 20px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 4px;
+  height: 39px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  margin-top: 6px;
+  min-width: 278px;
+  padding: 7px 3px;
+}
+
+.st-louis .address-2 {
+  min-height: 19px;
+  min-width: 241px;
+  white-space: nowrap;
+}
+
+.st-louis .expand_more_fill0_wght400_grad0_opsz48-3 {
+  align-self: flex-end;
+}
+
+.st-louis .group-container {
+  align-items: center;
+  display: flex;
+  gap: 57px;
+  margin-top: 24px;
+  min-width: 279px;
+}
+
+.st-louis .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 19px;
+  min-width: 197px;
+}
+
+.st-louis .rectangle-12 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--resolution-blue);
+  border-radius: 9px;
+  height: 15px;
+  margin-top: 1px;
+  width: 15px;
+}
+
+.st-louis .je-voyage-pour-le-travail {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group {
+  align-items: flex-start;
+  background-color: var(--selective-yellow);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 12.5px;
+  display: flex;
+  height: 25px;
+  min-width: 25px;
+  padding: 2px 8px;
+}
+
+.st-louis .group-container-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 112px;
+  margin-top: 10px;
+  min-width: 279px;
+}
+
+.st-louis .group-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 19px;
+  min-width: 142px;
+}
+
+.st-louis .l-ogement-entier {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .flex-row-2 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 89px;
+  height: 260px;
+  min-width: 349px;
+  padding: 12px 16px;
+}
+
+.st-louis .flex-col-2 {
+  align-items: flex-start;
+  min-height: 227px;
+  width: 194px;
+}
+
+.st-louis .group-14 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 1px;
+  margin-top: 16px;
+  min-width: 84px;
+}
+
+.st-louis .rectangle {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 5px;
+  height: 20px;
+  width: 20px;
+}
+
+.st-louis .parking {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 54px;
+  white-space: nowrap;
+}
+
+.st-louis .group-15 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 1px;
+  margin-top: 22px;
+  min-width: 193px;
+}
+
+.st-louis .connexion-wifi-gratuite {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 163px;
+  white-space: nowrap;
+}
+
+.st-louis .group-16 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 22px;
+  min-width: 82px;
+}
+
+.st-louis .piscine {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 52px;
+  white-space: nowrap;
+}
+
+.st-louis .group-17 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 22px;
+  min-width: 190px;
+}
+
+.st-louis .chambres-non-fumeur {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 160px;
+  white-space: nowrap;
+}
+
+.st-louis .group-18 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 22px;
+  min-width: 168px;
+}
+
+.st-louis .chambre-familiales {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 138px;
+  white-space: nowrap;
+}
+
+.st-louis .number-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-bottom: 10px;
+  min-height: 183px;
+  width: 18px;
+}
+
+.st-louis .number-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .number-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .number-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .number-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .number-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .flex-row-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 29px;
+  height: 556px;
+  min-width: 349px;
+  padding: 15px 16px;
+}
+
+.st-louis .flex-col-3 {
+  align-items: flex-start;
+  min-height: 510px;
+  width: 256px;
+}
+
+.st-louis .group-5 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 27px;
+  min-width: 71px;
+}
+
+.st-louis .plage {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.st-louis .group-6 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 199px;
+}
+
+.st-louis .parcours-de-golg-3km {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 169px;
+  white-space: nowrap;
+}
+
+.st-louis .group-7 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 75px;
+}
+
+.st-louis .pche {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 45px;
+  white-space: nowrap;
+}
+
+.st-louis .group-8 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 104px;
+}
+
+.st-louis .massages {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
+.st-louis .group-9 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 228px;
+}
+
+.st-louis .bains-re-remous-jacuzzi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 198px;
+  white-space: nowrap;
+}
+
+.st-louis .group-10 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 154px;
+}
+
+.st-louis .piscine-intrieure {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 124px;
+  white-space: nowrap;
+}
+
+.st-louis .group-11 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 58px;
+}
+
+.st-louis .place-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 28px;
+  white-space: nowrap;
+}
+
+.st-louis .group-12 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 122px;
+}
+
+.st-louis .visite-vlo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 92px;
+  white-space: nowrap;
+}
+
+.st-louis .group-13 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 4px;
+  margin-top: 35px;
+  min-width: 156px;
+}
+
+.st-louis .bons-restaurants {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.st-louis .number-container-1 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-top: 27.0px;
+  min-height: 451px;
+  width: 18px;
+}
+
+.st-louis .number {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  min-width: 18px;
+  white-space: nowrap;
+}
+
+.st-louis .number-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4px;
+  min-height: 19px;
+  min-width: 9px;
+  white-space: nowrap;
+}
+
+.st-louis .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 1729px;
+  width: 884px;
+}
+
+.st-louis .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 365px;
+  min-width: 852px;
+}
+
+.st-louis .etalissements-trouvs {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4.0px;
+  min-height: 28px;
+  min-width: 244px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group16 {
+  background-color: var(--alto);
+  height: 100px;
+  position: relative;
+  width: 243px;
+}
+
+.st-louis .rectangle-20 {
+  background-color: var(--resolution-blue);
+  height: 48px;
+  left: 39px;
+  position: absolute;
+  top: 26px;
+  width: 167px;
+}
+
+.st-louis .voir-la-carte {
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.st-louis .disponible-1 {
+  margin-left: 1px;
+  margin-top: 47px;
+}
+
+.st-louis .rectangle-27 {
+  height: 268px;
+  object-fit: cover;
+  width: 263px;
+}
+
+.st-louis .line-3 {
+  align-self: center;
+  height: 79px;
+  margin-left: 8px;
+  margin-top: 29.0px;
+  width: 2px;
+}
+
+.st-louis .flex-col {
+  align-self: flex-start;
+  flex-direction: column;
+  min-height: 187px;
+  width: 335px;
+}
+
+.st-louis .keur-diam-maison-de-la-paix {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.st-louis .saly-portudal-indiquer-sur-la-carte {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 13px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .span-1 {
+  text-decoration: underline;
+}
+
+.st-louis .chambre-double-avec {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 52px;
+  min-height: 19px;
+  min-width: 321px;
+  white-space: nowrap;
+}
+
+.st-louis .address {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 6px;
+  margin-top: 8px;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.st-louis .plus-de-4-hebergemen {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4px;
+  margin-top: 10px;
+  min-height: 19px;
+  min-width: 325px;
+  white-space: nowrap;
+}
+
+.st-louis .flex-col-1 {
+  align-items: flex-end;
+  margin-left: 31px;
+  min-height: 137px;
+  width: 228px;
+}
+
+.st-louis .address-1 {
+  margin-right: 24px;
+  min-height: 19px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.st-louis .xof-20ooo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5px;
+  min-height: 28px;
+  min-width: 135px;
+  white-space: nowrap;
+}
+
+.st-louis .overlap-group-1 {
+  align-items: center;
+  background-color: var(--resolution-blue);
+  display: flex;
+  height: 43px;
+  justify-content: flex-end;
+  margin-right: 1px;
+  margin-top: 42px;
+  min-width: 227px;
+  padding: 0 25px;
+}
+
+.st-louis .voir-les-dispnibilts {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.st-louis .disponible {
+  align-items: flex-end;
+  display: flex;
+  height: 272px;
+  margin-top: 47px;
+  min-width: 883px;
+}
+
+.st-louis .disponible-2 {
+  margin-top: 81px;
+}
+
+.st-louis .group-25 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 354px;
+  min-width: 1440px;
+  z-index: 2;
+}
+
+.st-louis .overlap-group14 {
+  height: 501px;
+  position: relative;
+  width: 1440px;
+}
+
+.st-louis .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--resolution-blue);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 501px;
+  padding: 32px 83px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.st-louis .overlap-group1-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--resolution-blue);
+  border-radius: 64px;
+  box-shadow: 0px 10px 4px #00000040;
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  margin-top: 10px;
+  min-width: 1273px;
+  padding: 20px 29px;
+}
+
+.st-louis .flex-row-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 99px;
+  height: 228px;
+  min-width: 309px;
+}
+
+.st-louis .flex-col-5 {
+  align-items: center;
+  min-height: 146px;
+  width: 193px;
+}
+
+.st-louis .adresse {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 10.0px;
+  min-height: 38px;
+  min-width: 119px;
+  white-space: nowrap;
+}
+
+.st-louis .vector {
+  height: 55px;
+  margin-left: 10.0px;
+  margin-top: 5px;
+  width: 41px;
+}
+
+.st-louis .pikine-rue-10 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 38px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.st-louis .line {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 8px;
+  min-width: 17px;
+}
+
+.st-louis .line-4 {
+  height: 129px;
+  margin-left: -1px;
+  margin-top: 0.8px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.st-louis .line-2 {
+  height: 215px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.st-louis .line-5 {
+  height: 129px;
+  margin-top: 0.8px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.st-louis .flex-col-6 {
+  align-items: center;
+  margin-left: 126px;
+  margin-top: 10px;
+  min-height: 184px;
+  width: 186px;
+}
+
+.st-louis .tlphone {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 9.0px;
+  min-height: 38px;
+  min-width: 151px;
+  white-space: nowrap;
+}
+
+.st-louis .vector-1 {
+  height: 46px;
+  margin-left: 2.0px;
+  margin-top: 14px;
+  width: 46px;
+}
+
+.st-louis .address-3 {
+  margin-top: 10px;
+  min-height: 76px;
+  min-width: 186px;
+}
+
+.st-louis .line-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 8px;
+  margin-left: 121px;
+  min-width: 17px;
+}
+
+.st-louis .flex-col-7 {
+  align-items: center;
+  margin-left: 61px;
+  margin-top: 10px;
+  min-height: 146px;
+  width: 325px;
+}
+
+.st-louis .email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 25.0px;
+  min-height: 38px;
+  min-width: 80px;
+  white-space: nowrap;
+}
+
+.st-louis .vector-2 {
+  height: 40px;
+  margin-right: 26.0px;
+  margin-top: 20px;
+  width: 53px;
+}
+
+.st-louis .solovoayegmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 10px;
+  min-height: 38px;
+  min-width: 325px;
+  white-space: nowrap;
+}
+
+.st-louis .frame-18 {
+  align-self: center;
+  height: 28px;
+  margin-top: 54px;
+  width: 302px;
+}
+
+.st-louis .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  margin-left: 5px;
+  margin-top: 36px;
+  min-width: 266px;
+}
+
+.st-louis .vector-3 {
+  height: 31px;
+  width: 31px;
+}
+
+.st-louis .address-4 {
+  margin-top: 2.0px;
+  min-height: 23px;
+  min-width: 230px;
+  white-space: nowrap;
+}
+
+.st-louis .line-6 {
+  height: 215px;
+  left: 492px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.st-louis .line-7 {
+  height: 215px;
+  left: 925px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.st-louis .address-5 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.st-louis .disponible-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 272px;
+  min-width: 883px;
+}
+
+.st-louis .expand_more_fill0_wght400_grad0_opsz48 {
+  height: 24px;
+  width: 24px;
+}
+
+.st-louis .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.st-louis .flex-col-8 {
+  display: flex;
+  flex-direction: column;
+}
+
+.st-louis .local_taxi_fill0_wght400_grad0_opsz48 {
+  height: 27px;
+  width: 27px;
+}
+
+.st-louis .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5.0px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.st-louis .text {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  white-space: nowrap;
+}
